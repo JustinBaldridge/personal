@@ -1,0 +1,23 @@
+body{
+    background: #C0C0C0 url(../images/congruent_pentagon.png);
+}
+.k {
+    padding: 10px;
+    margin: 5px;
+}
+.picture-01 {
+    width: 25%;
+}
+.invis {
+    visibility:hidden;
+}
+.higherfont {
+    font-size: 20;
+}
+.some{
+    border:solid 5px #003366;
+    padding: 5px;
+}
+.navbar {
+    
+}
